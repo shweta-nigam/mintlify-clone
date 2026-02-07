@@ -462,6 +462,9 @@ font-size: 12px;
   border-radius: 16px;
   background-color: rgba(255, 255, 255, 0.08);
 }
+.customer-visual img{
+  border-radius: 10px;
+}
 
 .customer-summary {
   font-size: 14px;
